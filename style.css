@@ -1,0 +1,48 @@
+.name {
+    color: rgb(98, 0, 255);
+    font-size: 40px;
+}
+
+img {
+    width: 30px;
+}
+
+header {
+    display: flex;
+    border-collapse: collapse;
+}
+
+.container {
+    background-image: linear-gradient(skyblue, coral);
+}
+
+.container-two {
+    background-image: linear-gradient(rgb(215, 113, 241), rgb(80, 147, 255))
+}
+
+.container-three {
+    background-image: linear-gradient(rgb(135, 236, 245), rgb(255, 165, 80))
+}
+
+body {
+    background-image: linear-gradient(rgb(220, 245, 255), rgb(241, 209, 197));
+}
+
+.name-2 {
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: square;
+    font-size: 20px;
+}
+
+
+/* button {
+    background-color: rgb(250, 7, 136);
+} */
+
+
+/* .container {
+    background-position: center;
+} */
